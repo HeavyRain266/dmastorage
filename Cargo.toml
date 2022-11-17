@@ -1,0 +1,14 @@
+[package]
+name = "dmastorage"
+version = "0.1.0"
+authors = ["Ignacy Koper <heavyrain266@pm.me"]
+edition = "2021"
+description = "High-performance I/O for Linux based on DMA Buffers"
+readme = "README.md"
+homepage = "https://github.com/HeavyRain266/dmastorage"
+repository = "https://github.com/HeavyRain266/dmastorage"
+license = "Apache-2.0"
+keywords = ["linux", "storage", "graphics", "gamedev"]
+categories = ["filesystem", "graphics", "game-development"]
+
+[dependencies]
